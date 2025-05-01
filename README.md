@@ -64,7 +64,7 @@ The system performs robustly on a variety of image types, including realistic, u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-caption-audio.git
+   git clone https://github.com/faizal7629/image-caption-audio.git
    cd image-caption-audio
 ---
 ## 🧑‍💻 Authors
